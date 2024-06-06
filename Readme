@@ -1,0 +1,3 @@
+Implementation of Deep Q-Learning approach for multi-agent systems.
+Our objective is to encourage diverse policies among these agents, even if they are not optimal. 
+The emphasis lies in fostering cooperation among agents while acknowledging and embracing the diversity in their individual decision-making strategies.
