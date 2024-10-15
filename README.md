@@ -21,4 +21,4 @@ has five possible actions:
 # Evaluation
 8 agent train on a 16x16 map
 
-![gif](Test_Gif/16x16 map with 8 agents.gif)
+![Description du GIF](Test_gif/16x16 map with 8 agents.gif)
