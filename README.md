@@ -11,10 +11,13 @@ The emphasis lies in fostering cooperation among agents while acknowledging and 
 
 
 # Environment
-Our environment is a square grid of size n x n that can contain p agents. Each agent <br>
+Our environment is a square grid of size n x n that can contain p agents. Each agent
 has five possible actions:
-files: Class_environnement.py 
+
 ![direction_agent](https://github.com/user-attachments/assets/eac9cba5-f8cf-4fa8-b961-23aa02450d0e)
+
+files: Class_environnement.py 
+
 
 
 ![Environment](https://github.com/user-attachments/assets/5df609c8-c619-47b2-93dd-39e440f8f2a5)
@@ -29,6 +32,8 @@ file Deep_Q_Learning_diversifié.ipynb
 
 
 # Files
-Q_learning_diverse contain a simple Q learning solution of the environment with two agents .<br>
-assets contain the assets for the environment.<br>
-Test-gif contain evaluation of some models after trainning .<br>
+Q_learning_diverse contain a simple Q learning solution of the environment with two agents 
+
+assets contain the assets for the environment 
+
+Test-gif contain evaluation of some models after trainning 
